@@ -1,0 +1,4 @@
+[model]
+model_path = "./model/whisper-v3"
+sample_rate = 22050
+gpu_use = true
